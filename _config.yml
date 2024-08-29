@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Mr. Will
-subtitle: Mr. Will's Blog
-description: Mr. Will is talking here.
-keywords: MrWillCom
-author: Mr. Will
+title: Jacob's Notes
+subtitle: Learn, Experiment, Build
+description:
+keywords:
+author: Jacob Wu
 language: en
-timezone: 'Asia/Shanghai'
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
